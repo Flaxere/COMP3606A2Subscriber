@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Comp3606A2: SubscriberApp</string>
+
+    <string name="live_view">Live View</string>
+    <string name="app_title">Assignment Two - Subscriber</string>
+
+    <!--    <string name="app_title">Assignment Two - Subscriber</string>-->
+
+</resources>
